@@ -467,8 +467,14 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
 
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", T-Sports
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", T-Sports
+https://test.bongodrive.pw/bdix.m3u8?ac=1102
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", T-Sports
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/vKvybG-V4oRtlMarf65eixHXwPY3Z7pJKCgK1QmfHKoXsNsBLCaurs8HJIKWyjKuKQoXI4agiIYJtfrkxnBK8Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
 
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", T-Sports (Himel)
