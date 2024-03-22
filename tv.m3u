@@ -26,6 +26,15 @@ https://dai.fancode.com/primary/93978_english_hls_5006ta-di/144p.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama 2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1220324/master.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama 3
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1220324/index.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama BN
+http://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_androidmob_avc_ben_ipl_s1_m1220324/master.m3u8
+
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 1 (4K).
 https://mrkingsports.000webhostapp.com/Sports.php?id=98864
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 2 (4K).
