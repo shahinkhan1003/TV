@@ -4,81 +4,191 @@
 
 
 
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", 1080p
-https://t.ly/Fancode-Worldwide/Zubayer_Op.m3u8
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K EN (220033) Asian Server start
+http://apnaiptv.asia/live/220033/220033/662151.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K BN (220033)
+http://apnaiptv.asia:80/live/220033/220033/662142.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (220033)
+http://apnaiptv.asia:80/live/220033/220033/260991.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (220033)
+http://apnaiptv.asia:80/live/220033/220033/260998.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 2 (220033)
+http://apnaiptv.asia:80/live/220033/220033/260999.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket (220033)
+http://apnaiptv.asia:80/live/220033/220033/313547.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket 2 (220033)
+http://apnaiptv.asia:80/live/220033/220033/260993.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket (220033)
+http://apnaiptv.asia:80/live/220033/220033/313548.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket 2 (220033)
+http://apnaiptv.asia:80/live/220033/220033/261002.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket (220033)
+http://apnaiptv.asia:80/live/220033/220033/260997.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket 2 (220033)
+http://apnaiptv.asia:80/live/220033/220033/313550.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket (220033)
+http://apnaiptv.asia:80/live/220033/220033/260996.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket 2 (220033)
+http://apnaiptv.asia:80/live/220033/220033/725709.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", CricLive1 (220033)
+http://apnaiptv.asia:80/live/220033/220033/672954.ts
 
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", 720p
-https://1rdk.short.gy/Fancode-Worldwide/Ban-Vs-SL/Himel-Op.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", 540p
-https://dai.fancode.com/primary/93978_english_hls_5006ta-di/540p.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", 480p
-https://dai.fancode.com/primary/93978_english_hls_5006ta-di/480p.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", 360p
-https://dai.fancode.com/primary/93978_english_hls_5006ta-di/360p.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", 144p
-https://dai.fancode.com/primary/93978_english_hls_5006ta-di/144p.m3u8
 
 
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama 2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1220324/master.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama 3
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1220324/index.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", IPL Jio Cinama BN
-http://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_androidmob_avc_ben_ipl_s1_m1220324/master.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 1 (4K).
-https://mrkingsports.000webhostapp.com/Sports.php?id=98864
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 2 (4K).
-https://mrkingsports.000webhostapp.com/Sports.php?id=98865
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 1 HINDI (4K).
-https://mrkingsports.000webhostapp.com/Sports.php?id=98866
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 1 (4K)
-https://mrkingsports.000webhostapp.com/Sports.php?id=124281
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 2 HD
-https://mrkingsports.000webhostapp.com/Sports.php?id=239
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Star Sport-2  (FHD)
-https://mrkingsports.000webhostapp.com/Sports.php?id=9398
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 2 (4K)
-https://mrkingsports.000webhostapp.com/Sports.php?id=124284
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 1 HINDI (4K)
-https://mrkingsports.000webhostapp.com/Sports.php?id=124287
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS SELECT 1 HD
-https://mrkingsports.000webhostapp.com/Sports.php?id=238
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS SELECT 2 HD
-https://mrkingsports.000webhostapp.com/Sports.php?id=148801
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS TAMIL 1 HD
-https://mrkingsports.000webhostapp.com/Sports.php?id=9722
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS TELUGU 1 HD
-https://mrkingsports.000webhostapp.com/Sports.php?id=177843
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR SPORTS 3
-https://mrkingsports.000webhostapp.com/Sports.php?id=1080
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", SKY SPORTS CRICKET
-https://mrkingsports.000webhostapp.com/Sports.php?id=12
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", SKY SPORTS CRICKET (4K)
-https://mrkingsports.000webhostapp.com/Sports.php?id=23566
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", SKY SPORTS CRICKET (4K).
-https://mrkingsports.000webhostapp.com/Sports.php?id=114479
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", WILLOW CRICKET
-https://mrkingsports.000webhostapp.com/Sports.php?id=215
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", WILLOW CRICKET.
-https://mrkingsports.000webhostapp.com/Sports.php?id=23943
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", STAR GOLD Cricket
-https://mrkingsports.000webhostapp.com/Sports.php?id=194
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Astro Cricket
-https://mrkingsports.000webhostapp.com/Sports.php?id=143056
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K EN (220033) UK Server start
+http://b1g.uk:80/live/220033/220033/662151.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K BN (220033)
+http://b1g.uk:80/live/220033/220033/662142.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (220033)
+http://b1g.uk:80/live/220033/220033/260991.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (220033)
+http://b1g.uk:80/live/220033/220033/260998.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 2 (220033)
+http://b1g.uk:80/live/220033/220033/260999.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket (220033)
+http://b1g.uk:80/live/220033/220033/313547.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket 2 (220033)
+http://b1g.uk:80/live/220033/220033/260993.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket (220033)
+http://b1g.uk:80/live/220033/220033/313548.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket 2 (220033)
+http://b1g.uk:80/live/220033/220033/261002.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket (220033)
+http://b1g.uk:80/live/220033/220033/260997.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket 2 (220033)
+http://b1g.uk:80/live/220033/220033/313550.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket (220033)
+http://b1g.uk:80/live/220033/220033/260996.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket 2 (220033)
+http://b1g.uk:80/live/220033/220033/725709.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", CricLive1 (220033)
+http://b1g.uk:80/live/220033/220033/672954.ts
 
 
 
 
+
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K EN (ram) Asian Server start
+http://apnaiptv.asia/live/ram/ram/662151.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K BN (ram)
+http://apnaiptv.asia/live/ram/ram/662142.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ram)
+http://apnaiptv.asia/live/ram/ram/260991.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ram)
+http://apnaiptv.asia/live/ram/ram/260998.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 2 (ram)
+http://apnaiptv.asia/live/ram/ram/260999.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket (ram)
+http://apnaiptv.asia/live/ram/ram/313547.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket 2 (ram)
+http://apnaiptv.asia/live/ram/ram/260993.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket (ram)
+http://apnaiptv.asia/live/ram/ram/313548.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket 2 (ram)
+http://apnaiptv.asia/live/ram/ram/261002.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket (ram)
+http://apnaiptv.asia/live/ram/ram/260997.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket 2 (ram)
+http://apnaiptv.asia/live/ram/ram/313550.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket (ram)
+http://apnaiptv.asia/live/ram/ram/260996.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket 2 (ram)
+http://apnaiptv.asia/live/ram/ram/725709.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", CricLive1 (ram)
+http://apnaiptv.asia/live/ram/ram/672954.ts
+
+
+
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K EN (ram) UK Server start
+http://b1g.uk:80/live/ram/ram/662151.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K BN (ram)
+http://b1g.uk:80/live/ram/ram/662142.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ram)
+http://b1g.uk:80/live/ram/ram/260991.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ram)
+http://b1g.uk:80/live/ram/ram/260998.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 2 (ram)
+http://b1g.uk:80/live/ram/ram/260999.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket (ram)
+http://b1g.uk:80/live/ram/ram/313547.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket 2 (ram)
+http://b1g.uk:80/live/ram/ram/260993.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket (ram)
+http://b1g.uk:80/live/ram/ram/313548.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket 2 (ram)
+http://b1g.uk:80/live/ram/ram/261002.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket (ram)
+http://b1g.uk:80/live/ram/ram/260997.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket 2 (ram)
+http://b1g.uk:80/live/ram/ram/313550.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket (ram)
+http://b1g.uk:80/live/ram/ram/260996.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket 2 (ram)
+http://b1g.uk:80/live/ram/ram/725709.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", CricLive1 (ram)
+http://b1g.uk:80/live/ram/ram/672954.ts
+
+
+
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K EN (ivan) Asian Server start
+http://apnaiptv.asia/live/ivan/ivan/662151.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K BN (ivan)
+http://apnaiptv.asia/live/ivan/ivan/662142.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/260991.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/260998.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 2 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/260999.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket (ivan)
+http://apnaiptv.asia/live/ivan/ivan/313547.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket 2 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/260993.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket (ivan)
+http://apnaiptv.asia/live/ivan/ivan/313548.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket 2 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/261002.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket (ivan)
+http://apnaiptv.asia/live/ivan/ivan/260997.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket 2 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/313550.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket (ivan)
+http://apnaiptv.asia/live/ivan/ivan/260996.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket 2 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/725709.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", CricLive1 (ivan)
+http://apnaiptv.asia/live/ivan/ivan/672954.ts
+
+
+
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K EN (ivan) UK Server start
+http://b1g.uk:80/live/ivan/ivan/662151.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL 4K BN (ivan)
+http://b1g.uk:80/live/ivan/ivan/662142.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ivan)
+http://b1g.uk:80/live/ivan/ivan/260991.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 1 (ivan)
+http://b1g.uk:80/live/ivan/ivan/260998.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", IPL Star Sports 2 (ivan)
+http://b1g.uk:80/live/ivan/ivan/260999.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket (ivan)
+http://b1g.uk:80/live/ivan/ivan/313547.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Sky Sports Cricket 2 (ivan)
+http://b1g.uk:80/live/ivan/ivan/260993.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket (ivan)
+http://b1g.uk:80/live/ivan/ivan/313548.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Willow Cricket 2 (ivan)
+http://b1g.uk:80/live/ivan/ivan/261002.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket (ivan)
+http://b1g.uk:80/live/ivan/ivan/260997.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", Astro Cricket 2 (ivan)
+http://b1g.uk:80/live/ivan/ivan/313550.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket (ivan)
+http://b1g.uk:80/live/ivan/ivan/260996.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", SS Cricket 2 (ivan)
+http://b1g.uk:80/live/ivan/ivan/725709.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", CricLive1 (ivan)
+http://b1g.uk:80/live/ivan/ivan/672954.ts
 
 
 
@@ -109,6 +219,12 @@ http://b1g.uk:80/live/ram/ram/164454.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/srq5c0u.jpg", Zee Bangla HD (b1g_6594)
 http://b1g.uk:80/live/6594/6594/164454.ts
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/srq5c0u.jpg", Zee Bangla HD (ivan)
+http://b1g.uk:80/live/ivan/ivan/164454.ts
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/srq5c0u.jpg", Zee Bangla HD (220033)
+http://b1g.uk:80/live/220033/220033/164454.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/srq5c0u.jpg", Zee Bangla HD (b1g_8034)
 http://b1g.uk:80/live/8034/8034/164454.ts
