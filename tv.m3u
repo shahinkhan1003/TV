@@ -4,6 +4,9 @@
 http://b1g.ooo:80/live/ram/ram/260988.ts
 
 #EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", WC T20 Live 1
+http://b1g.ooo:80/live/ram/ram/260997.ts
+
+#EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", WC T20 Live 1
 http://145.239.5.177:8080/567/index.m3u8 
 
 #EXTINF:-1 group-title="IPL" tvg-logo="https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg", WC T20 Live 2
