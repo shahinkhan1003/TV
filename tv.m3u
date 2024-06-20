@@ -1,11 +1,240 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 ram
+http://b1g.uk:80/live/ram/ram/713927.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 UK ram
+http://b1g.uk:80/live/ram/ram/713926.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Optus ram
+http://b1g.uk:80/live/ram/ram/713925.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 1 ram
+http://b1g.uk:80/live/ram/ram/713924.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 4 ram
+http://b1g.uk:80/live/ram/ram/713822.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Astro Supersports ram
+http://b1g.uk:80/live/ram/ram/713928.ts
+
+
+
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 8034
+http://b1g.uk:80/live/8034/8034/713927.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 UK 8034
+http://b1g.uk:80/live/8034/8034/713926.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Optus 8034
+http://b1g.uk:80/live/8034/8034/713925.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 1 8034
+http://b1g.uk:80/live/8034/8034/713924.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 4 8034
+http://b1g.uk:80/live/8034/8034/713822.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Astro Supersports 8034
+http://b1g.uk:80/live/8034/8034/713928.ts
+
+
+
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 ivan
+http://b1g.uk:80/live/ivan/ivan/713927.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 UK ivan
+http://b1g.uk:80/live/ivan/ivan/713926.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Optus ivan
+http://b1g.uk:80/live/ivan/ivan/713925.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 1 ivan
+http://b1g.uk:80/live/ivan/ivan/713924.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 4 ivan
+http://b1g.uk:80/live/ivan/ivan/713822.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Astro Supersports ivan
+http://b1g.uk:80/live/ivan/ivan/713928.ts
+
+
+
+
+
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 6594
+http://b1g.uk:80/live/6594/6594/713927.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 UK 6594
+http://b1g.uk:80/live/6594/6594/713926.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Optus 6594
+http://b1g.uk:80/live/6594/6594/713925.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 1 6594
+http://b1g.uk:80/live/6594/6594/713924.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN 4 6594
+http://b1g.uk:80/live/6594/6594/713822.ts
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Astro Supersports 6594
+http://b1g.uk:80/live/6594/6594/713928.ts
+
+
+
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566028&extension=ts&play_token=g2V32BK1Gb
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566026&extension=ts&play_token=u7W9cT35bI
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566025&extension=ts&play_token=03UjkH43y9
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566027&extension=ts&play_token=AQapUzLHvC
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566024&extension=ts&play_token=wTdwL1MxKC
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN1 FHD watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=904216&extension=ts&play_token=3FMGKIXne1
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN1 HD watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177344&extension=ts&play_token=xzhNDRwlcp
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN4 FHD watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=904213&extension=ts&play_token=QcPPFyQjt6
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", TSN4 HD watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177347&extension=ts&play_token=WZUJO6dBfj
+
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Astro Supersports 4 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=571246&extension=ts&play_token=mbu2r9i7nD
+
+
+
+
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/260988.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/260989.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/261517.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/261518.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/260992.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/260991.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ram
+http://b1g.uk:80/live/ram/ram/260997.ts
+
+
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/260988.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/260989.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/261517.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/261518.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/260992.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/260991.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 8034
+http://b1g.uk:80/live/8034/8034/260997.ts
+
+
+
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/260988.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/260989.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/261517.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/261518.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/260992.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/260991.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC ivan
+http://b1g.uk:80/live/ivan/ivan/260997.ts
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/260988.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/260989.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/261517.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/261518.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/260992.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/260991.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo="http://172.21.22.2/assets/images/live.png", ICC T20 WC 6594
+http://b1g.uk:80/live/6594/6594/260997.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 https://1rdk.short.gy/Nag_RASHED_AN_GRUP.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=V590tko9Vic3NdLw0MW17g&expires=1719067223&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://i.imgur.com/OymIrYv.jpg", T-Sports
 https://1rdk.short.gy/আকাশ_বাতাস_t_sports_rashed_an_grup.m3u8
@@ -814,6 +1043,19 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1141780&extens
 
 #EXTINF:-1 group-title="WatchTV" tvg-logo="http://172.21.22.2/assets/images/live.png", Willow Cricket Extra 2 USA (WatchTV)
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1142110&extension=ts&play_token=2LNBIw4x4T
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
