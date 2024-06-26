@@ -86,6 +86,9 @@ http://b1g.uk:80/live/6594/6594/713928.ts
 
 
 
+#EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", FS1 watchtv
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566028&extension=ts&play_token=pQUDDp6UCY
+
 #EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 watchtv
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1566028&extension=ts&play_token=g2V32BK1Gb
 
