@@ -21,6 +21,7 @@ http://b1g.uk:80/live/ram/ram/713928.ts
 
 
 
+
 #EXTINF:-1 group-title="Copa America" tvg-logo="https://i.imgur.com/OymIrYv.jpg", Premier Sports 1 8034
 http://b1g.uk:80/live/8034/8034/713927.ts
 
@@ -728,7 +729,8 @@ http://rayantv.org:80/live/Alex2023/Alex2023/165512.ts
 
 
 
-
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/O1RtH9C.jpg", Somoy TV (Jagobd)
+http://113.212.111.246:8080/hls/col12.m3u8
 
 
 
