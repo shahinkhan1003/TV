@@ -103,7 +103,19 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1104675&extens
 #EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Sports 18 FHD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1104676&extension=ts&play_token=lFIxRXmV2c
 
-#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Willow Cricket Extra | US
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Willow Cricket | US
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=45463&extension=ts&play_token=zw9TVQ5tAs
+
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Willow Cricket | CA
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1036492&extension=ts&play_token=npxw2bbnxI
+
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Willow Cricket Extra | US 1
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1141780&extension=ts&play_token=h5qsQildqC
+
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Willow Cricket Extra | US 2
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1104677&extension=ts&play_token=LlOAYMDW3s
+
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Willow Cricket Extra | US 3
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1142110&extension=ts&play_token=o4T8pS0YLv
 
 #EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Fox Cricket HD | AU
