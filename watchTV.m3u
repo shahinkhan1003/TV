@@ -1,6 +1,87 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", NTV Bangla EU
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=42462&extension=ts&play_token=LQS8W4mdxi
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", ATN Bangla EU
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=97110&extension=ts&play_token=8stnuCSzc4
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Ananda TV HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165525&extension=ts&play_token=gtGK1T8F3B
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", ATN Bangla HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165526&extension=ts&play_token=DHd8tRwLJW
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Asian TV FHD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165528&extension=ts&play_token=KT9mIHs9Vs
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", ATN News
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165527&extension=ts&play_token=iDhYRptlZh
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Bangla Vision HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165516&extension=ts&play_token=5Nmb9AaAG7
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Bijoy TV FHD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165530&extension=ts&play_token=8cVpY0IVp7
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Bijoy TV HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225730&extension=ts&play_token=ohzuRkDW8P
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Boishakhi TV HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165531&extension=ts&play_token=4CTFhx1T3p
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", BTV World
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165535&extension=ts&play_token=Vkhrik5LMg
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Channel I FHD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165537&extension=ts&play_token=NpCJIMFLCv
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", DBC News
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165517&extension=ts&play_token=L7g9UFKfqk
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Gaan Bangla HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165540&extension=ts&play_token=PXohxkhsV4
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Independent TV HD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165548&extension=ts&play_token=qqGRvsJVH1
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Jamuna TV
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165545&extension=ts&play_token=GWbT0qt0FD
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Jamuna TV
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225789&extension=ts&play_token=9YYBm0JlsV
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Channel 24
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225735&extension=ts&play_token=nw9zLZSu23
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", RTV
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165543&extension=ts&play_token=YBHdTeq8oJ
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Somoy News
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165521&extension=ts&play_token=SyjwlOviBG
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Khusboo Bangla
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225809&extension=ts&play_token=Q5bIR5nwG4
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Peace TV Bangla
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225795&extension=ts&play_token=Mjk6QNH4xc
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Travel xp
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=282667&extension=ts&play_token=oJJNLxA66o
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Star Jalsha Movies FHD
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=282666&extension=ts&play_token=QXS38I0Man
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", NAT GEO Channel
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=282665&extension=ts&play_token=CwWA8ShNCP
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Discovery HD Bengali
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225832&extension=ts&play_token=m7dSE5mEig
+
+
+
+
 #EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Astro Cricket HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1104670&extension=ts&play_token=YDHR9ba40r
 
@@ -58,7 +139,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1106886&extens
 #EXTINF:-1 group-title="World Cricket" tvg-logo="_____", CrLife 2 HD | AR
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1106876&extension=ts&play_token=VaCX6kmGbH
 
-#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", CrLife 2 HD | AR
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", CrLife 1 HD | AR
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1106877&extension=ts&play_token=GJ4B6bXLZL
 
 #EXTINF:-1 group-title="World Cricket" tvg-logo="_____", CrLife 1 FHD | AR
