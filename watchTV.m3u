@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Jamuna TV
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225789&extension=ts&play_token=9YYBm0JlsV
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Jamuna TV
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165545&extension=ts&play_token=GWbT0qt0FD
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Channel 24
+http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225735&extension=ts&play_token=nw9zLZSu23
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", NTV Bangla EU
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=42462&extension=ts&play_token=LQS8W4mdxi
 
@@ -45,15 +54,6 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165540&extensi
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Independent TV HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165548&extension=ts&play_token=qqGRvsJVH1
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Jamuna TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165545&extension=ts&play_token=GWbT0qt0FD
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Jamuna TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225789&extension=ts&play_token=9YYBm0JlsV
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", Channel 24
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225735&extension=ts&play_token=nw9zLZSu23
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="_____", RTV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=165543&extension=ts&play_token=YBHdTeq8oJ
