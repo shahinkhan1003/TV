@@ -36,7 +36,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1471381&extens
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1479591&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="uk.Sky Sports Main Event" tvg-name="4K| SKY SPORTS UHD [EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-UHD.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1471387&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="4K| CANAL+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS.png" group-title="4K UHD 3840P",4K| CANAL+ UHD
+#EXTINF:-1 tvg-id="" tvg-name="4K| CANAL+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS.png" group-title="4K UHD 3840P",4K| CANAL+ UHD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1491210&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="4K| UHD 1 BY ASTRA" tvg-logo="http://logo.protv.cc/picons/logos/logos/UHD-1-BY-ASTRA.png" group-title="4K UHD 3840P",4K| UHD 1 BY ASTRA
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1491209&extension=ts&play_token=LQS8W4mdxi
@@ -534,7 +534,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=90968&extensio
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=91877&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="US| THE WEATHER CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/THE-WEATHER-CHANNEL-HD.png" group-title="US| ENTERTAINMENT",US| THE WEATHER CHANNEL HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=45455&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="The Blaze TV" tvg-name="US| THE BLAZE HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BLAZE_HD.png" group-title="US| ENTERTAINMENT",US| THE BLAZE HD
+#EXTINF:-1 tvg-id="The Blaze TV" tvg-name="US| THE BLAZE HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BLAZE_HD.png" group-title="US| ENTERTAINMENT",US| THE BLAZE HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1053425&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="US-TLC USA - Eastern" tvg-name="US| TLC HD" tvg-logo="http://logo.protv.cc/picons/logos/TLC-HD.png" group-title="US| ENTERTAINMENT",US| TLC HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=45471&extension=ts&play_token=LQS8W4mdxi
@@ -3744,29 +3744,29 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1139280&extens
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1139279&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="MLS Vancouver Whitecaps FC" tvg-logo="http://logo.protv.cc/picons/logos/USA/MLS-Vancouver-Whitecaps-FC.png" group-title="US| MLS NETWORK",MLS Vancouver Whitecaps FC
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1139278&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 1" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 1
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 1" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 1
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522929&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 2
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 2
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522928&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 3" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 3
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 3" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 3
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522927&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 4" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 4
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 4" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 4
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522926&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 5" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 5
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 5" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 5
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522925&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 6" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 6
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 6" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 6
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522924&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 7" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 7
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 7" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 7
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522923&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 8" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 8
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 8" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 8
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522922&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 9" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 9
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 9" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 9
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522921&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 10" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 10
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 10" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 10
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522920&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 11" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 11
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 11" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 11
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522919&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 12" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 12
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 12" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAX-SPORTS-EVENTS.png" group-title="US| B/R MAX SPORTS PPV",US| B/R MAX SPORTS EVENTS 12
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1522918&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="##### FLO NETWORK #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/USA-FLAG.png" group-title="US| FLO NETWORK",##### FLO NETWORK #####
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1060243&extension=ts&play_token=LQS8W4mdxi
@@ -5886,7 +5886,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=379396&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=379393&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="US| PBS ALLENTOWN PA (WLVT)" tvg-logo="http://logo.protv.cc/picons/logos/logos/PBS-ALLENTOWN-PA.png" group-title="US| PBS NETWORK",US| PBS ALLENTOWN PA (WLVT)
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1569893&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="US| PBS NJ | NEW JERSEY (WNJT)" tvg-logo="http://logo.protv.cc/picons/logos/USA/PBS-KY.png" group-title="US| PBS NETWORK",US| PBS NJ | NEW JERSEY (WNJT)
+#EXTINF:-1 tvg-id="" tvg-name="US| PBS NJ | NEW JERSEY (WNJT)" tvg-logo="http://logo.protv.cc/picons/logos/USA/PBS-KY.png" group-title="US| PBS NETWORK",US| PBS NJ | NEW JERSEY (WNJT)
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1379126&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="US-PBS (KCTS) Seattle, WA" tvg-name="US| PBS NY | NEW YORK (WNET)" tvg-logo="http://logo.protv.cc/picons/logos/USA/PBS-KY.png" group-title="US| PBS NETWORK",US| PBS NY | NEW YORK (WNET)
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1379125&extension=ts&play_token=LQS8W4mdxi
@@ -8346,7 +8346,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=737841&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=737840&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="NA| BELLEVILLE SENATORS" tvg-logo="http://logo.protv.cc/picons/logos/ahl.png" group-title="NA| HOCKEY LEAGUE",NA| BELLEVILLE SENATORS
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=737839&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="NA| BRIDGEPORT ISLANDERS" tvg-logo="http://logo.protv.cc/picons/logos/ahl.png" group-title="NA| HOCKEY LEAGUE",NA| BRIDGEPORT ISLANDERS
+#EXTINF:-1 tvg-id="" tvg-name="NA| BRIDGEPORT ISLANDERS" tvg-logo="http://logo.protv.cc/picons/logos/ahl.png" group-title="NA| HOCKEY LEAGUE",NA| BRIDGEPORT ISLANDERS
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=737837&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="NA| CHICAGO WOLVES" tvg-logo="http://logo.protv.cc/picons/logos/ahl.png" group-title="NA| HOCKEY LEAGUE",NA| CHICAGO WOLVES
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=737836&extension=ts&play_token=LQS8W4mdxi
@@ -9464,7 +9464,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177297&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177298&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="CA| MA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MA.png" group-title="CA| FRENCH",CA| MA TV HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177299&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="CA| NOOVOO QUEBEC" tvg-logo="http://logo.protv.cc/picons/logos/arabic/NOOVO-QUEBEC.png" group-title="CA| FRENCH",CA| NOOVOO QUEBEC
+#EXTINF:-1 tvg-id="" tvg-name="CA| NOOVOO QUEBEC" tvg-logo="http://logo.protv.cc/picons/logos/arabic/NOOVO-QUEBEC.png" group-title="CA| FRENCH",CA| NOOVOO QUEBEC
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1475311&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-name="CA| NOOVO HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NOOVO.png" group-title="CA| FRENCH",CA| NOOVO HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177327&extension=ts&play_token=LQS8W4mdxi
@@ -9510,7 +9510,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177316&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=177317&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA SHERBROOKE HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVA.png" group-title="CA| FRENCH",CA| TVA SHERBROOKE HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1467207&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA CARLETON SUR MER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVA.png" group-title="CA| FRENCH",CA| TVA CARLETON SUR MER
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA CARLETON SUR MER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVA.png" group-title="CA| FRENCH",CA| TVA CARLETON SUR MER
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1472765&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA RIMOUSKI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVA.png" group-title="CA| FRENCH",CA| TVA RIMOUSKI
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1472764&extension=ts&play_token=LQS8W4mdxi
@@ -10558,7 +10558,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=469275&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1120181&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="IR| IRIB NASIM HEVC" tvg-logo="http://logo.protv.cc/picons/logos/IRIB-NASIM-TV.png" group-title="IRAN",IR| IRIB NASIM HEVC
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=469125&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="IR| FAREH TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/FAREH.png" group-title="IRAN",IR| FAREH TV
+#EXTINF:-1 tvg-id="" tvg-name="IR| FAREH TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/FAREH.png" group-title="IRAN",IR| FAREH TV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1551710&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="IR| IRIB NASIM" tvg-logo="http://logo.protv.cc/picons/logos/IRIB-NASIM-TV.png" group-title="IRAN",IR| IRIB NASIM
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=469233&extension=ts&play_token=LQS8W4mdxi
@@ -11592,7 +11592,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913401&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913405&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="TR| TAY TV" tvg-logo="http://logo.protv.cc/picons/logos/taytv.jpg" group-title="TR| SPOR KANALLARI",TR| TAY TV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913400&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="TR| EXXEN TV" tvg-logo="" group-title="TR| SPOR KANALLARI",TR| EXXEN TV
+#EXTINF:-1 tvg-id="" tvg-name="TR| EXXEN TV" tvg-logo="" group-title="TR| SPOR KANALLARI",TR| EXXEN TV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1337928&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="TR| E X X E N SPORT 4K" tvg-logo="http://logo.protv.cc/picons/logos/EXXEN-SPORTS.png" group-title="TR| SPOR KANALLARI",TR| E X X E N SPORT 4K
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913399&extension=ts&play_token=LQS8W4mdxi
@@ -11720,9 +11720,9 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913444&extensi
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913453&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS 4 HD 1080" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD 1080
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913443&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 FHD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1091502&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS 5 + FHD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 + FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS 5 + FHD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 + FHD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1091501&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS MAX 1 HD 720" tvg-logo="http://logo.protv.cc/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 720
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=913452&extension=ts&play_token=LQS8W4mdxi
@@ -11954,484 +11954,9 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1384243&extens
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1384242&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 20 HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SINEVIZYON.png" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 20 HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1384241&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - A3 BIKINI TV (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - A3 BIKINI TV (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138504&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ADULT TINY4K 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - ADULT TINY4K 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774010&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ADULT TINY4K 3 TV" tvg-logo="" group-title="FOR ADULTS",XXX - ADULT TINY4K 3 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774040&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ALBA XXX 2 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ALBA XXX 2 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309867&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ANAL TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ANAL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777791&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ASIAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ASIAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777784&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ASMR FANTASY" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ASMR FANTASY
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777865&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BABES TV HD (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BABES TV HD (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128761&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BAD DADDY POV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BAD DADDY POV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777860&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BAEB" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BAEB
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777859&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 3" tvg-logo="" group-title="FOR ADULTS",XXX - EROTIC 3
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774028&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BALKAN HOT TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BALKAN HOT TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309868&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BALKAN HOT TV 2 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BALKAN HOT TV 2 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309869&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BANG U (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BANG U (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138505&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BANGERZ (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BANGERZ (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309870&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BARELY LEGAL TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BARELY LEGAL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777856&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BARELY LEGAL TV (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BARELY LEGAL TV (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128764&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BASHMENT" tvg-logo="http://logo.protv.cc/picons/logos/BASHMENT-TV.jpeg" group-title="FOR ADULTS",XXX - BASHMENT
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=533615&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BASHMENT 2" tvg-logo="http://logo.protv.cc/picons/logos/BASHMENT-TV.jpeg" group-title="FOR ADULTS",XXX - BASHMENT 2
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=533616&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BIG ASS FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG ASS FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777853&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BIG ASS TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG ASS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777783&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BIG DICK TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG DICK TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777756&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BIG TITS TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG TITS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777753&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BIZARRE TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIZARRE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777774&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLACK OF BLONDES TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLACK OF BLONDES TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774007&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLACKED 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLACKED 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774020&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLACKED 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLACKED 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773976&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLACKED 3 TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLACKED 3 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773983&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLACKED 4 TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLACKED 4 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773982&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLACKED 5 TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLACKED 5 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774047&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLONDE TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLONDE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777752&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLOWJOB TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLOWJOB TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777736&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLOWJOB TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLOWJOB TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773979&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Penthouse Gold" tvg-name="XXX - BLUE HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLUE HUSTLER TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773968&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLUE HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX - BLUE HUSTLER TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774044&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLUE HUSTLER TV (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLUE HUSTLER TV (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128770&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BLUE HUSTLER TV EUROPE (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLUE HUSTLER TV EUROPE (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131876&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - brazzers" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - brazzers
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777854&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BRAZZERS TV EUROPE RUSSIA" tvg-logo="" group-title="FOR ADULTS",XXX - BRAZZERS TV EUROPE RUSSIA
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773986&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BRAZZERS TV EUROPE TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BRAZZERS TV EUROPE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131891&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BRAZZERS TV EUROPE TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BRAZZERS TV EUROPE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777780&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BROKEN MILF FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BROKEN MILF FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777844&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - BRUNETTE TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BRUNETTE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777735&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CANDY FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CANDY FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777842&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CANDY TV" tvg-logo="" group-title="FOR ADULTS",XXX - CANDY TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773971&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CANDY TV HD (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CANDY TV HD (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138526&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CASUAL TEEM SEX 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - CASUAL TEEM SEX 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773996&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CASUAL TEEN SEX 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - CASUAL TEEN SEX 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774022&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CASUAL TEEN SEX 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - CASUAL TEEN SEX 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774011&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CASUAL TEEN SEX 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - CASUAL TEEN SEX 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774013&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CENTO X CENTO (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CENTO X CENTO (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131882&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - COMPILATION TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - COMPILATION TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777730&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CUCKOLD TV" tvg-logo="" group-title="FOR ADULTS",XXX - CUCKOLD TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774067&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CUM4K 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CUM4K 1 FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777835&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CUMLOUDER FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CUMLOUDER FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777833&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH AMATEUR" tvg-logo="" group-title="FOR ADULTS",XXX - CZECH AMATEUR
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773970&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH BITCH" tvg-logo="" group-title="FOR ADULTS",XXX - CZECH BITCH
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774041&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH CABIN" tvg-logo="" group-title="FOR ADULTS",XXX - CZECH CABIN
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773988&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH COUPLE" tvg-logo="" group-title="FOR ADULTS",XXX - CZECH COUPLE
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773997&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH GANG BANG" tvg-logo="" group-title="FOR ADULTS",XXX - CZECH GANG BANG
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773998&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH MEGA PORN" tvg-logo="" group-title="FOR ADULTS",XXX - CZECH MEGA PORN
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774001&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - CZECH STREETS" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CZECH STREETS
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777832&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DAUGHTER SWAP FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DAUGHTER SWAP FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777827&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DICK DRAINERS FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DICK DRAINERS FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777822&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - dorcel" tvg-logo="" group-title="FOR ADULTS",XXX - dorcel
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773985&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL FHD
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777819&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Meiden van Holland Hard" tvg-name="XXX - DORCEL TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777777&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL TV" tvg-logo="" group-title="FOR ADULTS",XXX - DORCEL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774029&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL TV" tvg-logo="" group-title="FOR ADULTS",XXX - DORCEL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774069&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL TV HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL TV HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=53070&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL TV XXX HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL TV XXX HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=267612&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DUSK TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DUSK TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777738&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - DUSK TV" tvg-logo="" group-title="FOR ADULTS",XXX - DUSK TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773969&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EMANUELLE HD (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EMANUELLE HD (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309862&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ERO X HD (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ERO X HD (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=53066&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EROX TV" tvg-logo="" group-title="FOR ADULTS",XXX - EROX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773973&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EROX TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EROX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777725&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EROX TV" tvg-logo="" group-title="FOR ADULTS",XXX - EROX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774046&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EROXXX TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EROXXX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777724&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Evil Angel" tvg-name="XXX - EVIL ANGEL (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EVIL ANGEL (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138463&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EXTASY TV" tvg-logo="" group-title="FOR ADULTS",XXX - EXTASY TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774018&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - EXXXOTICA HD (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EXXXOTICA HD (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309863&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV 2" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV 2
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777792&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Secret Circle" tvg-name="XXX - FAP TV 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - FAP TV 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774021&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV 3" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV 3
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777794&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV 3 TV" tvg-logo="" group-title="FOR ADULTS",XXX - FAP TV 3 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774049&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV 4" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV 4
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777716&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV 4" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV 4
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777806&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV 4 TV" tvg-logo="" group-title="FOR ADULTS",XXX - FAP TV 4 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774053&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV ANAL" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV ANAL
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777740&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Evil Angel" tvg-name="XXX - FAP TV ANAL" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV ANAL
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777814&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV ANAL TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV ANAL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777743&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV COMPILATION TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV COMPILATION TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777765&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV COMPILATION TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV COMPILATION TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777772&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV LESBIAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV LESBIAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777764&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV LESBIAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV LESBIAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777769&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Penthouse Gold" tvg-name="XXX - FAP TV PARODY TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV PARODY TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777747&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV TEENS TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV TEENS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777741&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FAP TV TEENS TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV TEENS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777761&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FETISH TV" tvg-logo="" group-title="FOR ADULTS",XXX - FETISH TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774066&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FIT 18 TV" tvg-logo="" group-title="FOR ADULTS",XXX - FIT 18 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774014&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FIT 18 TV" tvg-logo="" group-title="FOR ADULTS",XXX - FIT 18 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774025&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FLIXBLONDE TV" tvg-logo="" group-title="FOR ADULTS",XXX - FLIXBLONDE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774059&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FREE-X TV 2 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FREE-X TV 2 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309874&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FREE-X TV HQ (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FREE-X TV HQ (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309875&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FRENCH LOVER (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FRENCH LOVER (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138523&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - GANGBANG TV" tvg-logo="" group-title="FOR ADULTS",XXX - GANGBANG TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774065&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HARDCORE TV" tvg-logo="" group-title="FOR ADULTS",XXX - HARDCORE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774051&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT PLEASURE TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HOT PLEASURE TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309876&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HOT TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777815&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HOT TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777863&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HOT TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128788&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT XXL HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HOT XXL HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309877&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOTCLUB 7 TV" tvg-logo="" group-title="FOR ADULTS",XXX - HOTCLUB 7 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774042&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HOTCLUB 9 TV" tvg-logo="" group-title="FOR ADULTS",XXX - HOTCLUB 9 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774036&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Evil Angel" tvg-name="XXX - hustler" tvg-logo="" group-title="FOR ADULTS",XXX - hustler
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773993&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX - HUSTLER TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773980&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX - HUSTLER TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774030&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX - HUSTLER TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774035&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX - HUSTLER TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774031&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - IFLIXHARDCORE TV" tvg-logo="" group-title="FOR ADULTS",XXX - IFLIXHARDCORE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773999&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - INTERRACIAL TV" tvg-logo="" group-title="FOR ADULTS",XXX - INTERRACIAL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774052&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Playboy TV Europe" tvg-name="XXX - INTERRACIAL TV" tvg-logo="" group-title="FOR ADULTS",XXX - INTERRACIAL TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774008&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - JASMIN TV" tvg-logo="" group-title="FOR ADULTS",XXX - JASMIN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774034&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - JUICY" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - JUICY
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309922&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - LATINA TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LATINA TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777826&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - LEO TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LEO TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138529&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - LESBIAN AFFAIR (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LESBIAN AFFAIR (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138506&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - LESBIAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LESBIAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777830&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - LIVE CAMS TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LIVE CAMS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777837&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - MEIDEN VAN HOLLAND (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MEIDEN VAN HOLLAND (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138482&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - MIA KHALIFA" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MIA KHALIFA
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777776&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - MIA KHALIFA TV" tvg-logo="" group-title="FOR ADULTS",XXX - MIA KHALIFA TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774015&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - MILF TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MILF TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777824&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - MILF TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MILF TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777838&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - MiLF TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MiLF TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309879&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - N1 ADULT - BLACKED" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - N1 ADULT - BLACKED
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777762&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - N1 BLACKED 3 TV" tvg-logo="" group-title="FOR ADULTS",XXX - N1 BLACKED 3 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773991&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - N1 BLACKED 5 TV" tvg-logo="" group-title="FOR ADULTS",XXX - N1 BLACKED 5 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774062&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - N1 BLACKED TV" tvg-logo="" group-title="FOR ADULTS",XXX - N1 BLACKED TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773967&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.PassieXXX" tvg-name="XXX - N1 BLLACKED 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - N1 BLLACKED 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773981&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - NET VIDEO GIRLS TV" tvg-logo="" group-title="FOR ADULTS",XXX - NET VIDEO GIRLS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774003&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - O LA LA TV (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - O LA LA TV (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138522&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - OH-AH TV" tvg-logo="" group-title="FOR ADULTS",XXX - OH-AH TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773972&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ONLYFANS MIX 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - ONLYFANS MIX 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774039&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ONLYFANS MIX 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - ONLYFANS MIX 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774012&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ONLYFANS YANNALUX TV" tvg-logo="" group-title="FOR ADULTS",XXX - ONLYFANS YANNALUX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773984&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.DUSK" tvg-name="XXX - OUNG SEX ADULTS TV" tvg-logo="" group-title="FOR ADULTS",XXX - OUNG SEX ADULTS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773978&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PASSION XXX 2 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PASSION XXX 2 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138469&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PASSION XXX 3 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PASSION XXX 3 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128811&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773960&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774005&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773961&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774070&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Penthouse Gold" tvg-name="XXX - PENTHOUSE GOLD HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PENTHOUSE GOLD HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138452&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774058&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773987&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE_1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PENTHOUSE_1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774002&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PINK EROTIC 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773963&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 2 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PINK EROTIC 2 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131888&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PINK EROTIC 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773964&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 4 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PINK EROTIC 4 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138490&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 4 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PINK EROTIC 4 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773965&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 5 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PINK EROTIC 5 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131890&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 5 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PINK EROTIC 5 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773966&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK O CLUB (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PINK O CLUB (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131875&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK O CLUB 2 (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PINK O CLUB 2 (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=53053&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOADULT TINY4K 1 TV" tvg-logo="" group-title="FOR ADULTS",XXX - PLAYBOADULT TINY4K 1 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774006&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY EUROPE HD (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PLAYBOY EUROPE HD (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309865&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY TV" tvg-logo="" group-title="FOR ADULTS",XXX - PLAYBOY TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773975&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY TV" tvg-logo="" group-title="FOR ADULTS",XXX - PLAYBOY TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774045&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PLAYBOY TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138510&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY TV 2 HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PLAYBOY TV 2 HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128812&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - AFRICAN CASTING" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - AFRICAN CASTING
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777745&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYHOUSE HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PLAYHOUSE HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138512&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 10" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 10
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777813&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 12" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 12
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777798&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 13" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 13
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777766&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 14" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 14
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777763&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 15" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 15
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777807&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FIT 18" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FIT 18
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777760&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 2" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 2
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777732&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 3" tvg-logo="" group-title="FOR ADULTS",XXX - porn 3
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774024&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 6" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 6
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777864&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 7" tvg-logo="" group-title="FOR ADULTS",XXX - porn 7
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774016&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 8" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - porn 8
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=131892&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - porn 9" tvg-logo="" group-title="FOR ADULTS",XXX - porn 9
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773962&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Playboy TV Europe" tvg-name="XXX - PORNO CASTING ADULTS TV" tvg-logo="" group-title="FOR ADULTS",XXX - PORNO CASTING ADULTS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774009&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PORNO CASTING TV" tvg-logo="" group-title="FOR ADULTS",XXX - PORNO CASTING TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773977&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PORNO MOVIES ADULTS TV" tvg-logo="" group-title="FOR ADULTS",XXX - PORNO MOVIES ADULTS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774038&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PORNSTAR TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PORNSTAR TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777840&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - POV TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - POV TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777841&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PRIVATE TV" tvg-logo="" group-title="FOR ADULTS",XXX - PRIVATE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774032&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PRIVATE TV HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PRIVATE TV HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128813&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PUBLICK AGENT TV" tvg-logo="" group-title="FOR ADULTS",XXX - PUBLICK AGENT TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774023&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PUBLISK AGENT TV" tvg-logo="" group-title="FOR ADULTS",XXX - PUBLISK AGENT TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774068&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PURE BABES (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PURE BABES (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309866&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - REDHOT" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - REDHOT
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=550702&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - REDLIGHT HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - REDLIGHT HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128817&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - REDLIGHT TV" tvg-logo="" group-title="FOR ADULTS",XXX - REDLIGHT TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774033&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - ROUGE TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ROUGE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138478&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEX & SUBMISSION" tvg-logo="" group-title="FOR ADULTS",XXX - SEX & SUBMISSION
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774019&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - RUSSIAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - RUSSIAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777843&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - RUSSIAN_NIGHT TV" tvg-logo="" group-title="FOR ADULTS",XXX - RUSSIAN_NIGHT TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773989&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Secret Circle" tvg-name="XXX - SECRET CIRCLE TV (S)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SECRET CIRCLE TV (S)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138525&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEX ATION TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SEX ATION TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309883&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Evil Angel" tvg-name="XXX - SEXTREME TV" tvg-logo="" group-title="FOR ADULTS",XXX - SEXTREME TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773992&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY HOT TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SEXY HOT TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138472&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY MIC LICKING ADULTS TV" tvg-logo="" group-title="FOR ADULTS",XXX - SEXY MIC LICKING ADULTS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774043&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="nl.Penthouse Gold" tvg-name="XXX - SEXY MIC LICKING TV" tvg-logo="" group-title="FOR ADULTS",XXX - SEXY MIC LICKING TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774037&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SHALUN TV" tvg-logo="" group-title="FOR ADULTS",XXX - SHALUN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773974&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SHALUN TV" tvg-logo="" group-title="FOR ADULTS",XXX - SHALUN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774056&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SKINEMAX" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SKINEMAX
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=550703&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SKYE BLUE TV" tvg-logo="" group-title="FOR ADULTS",XXX - SKYE BLUE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774004&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SUPER 2 TV" tvg-logo="" group-title="FOR ADULTS",XXX - SUPER 2 TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774048&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SUPER ONE (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SUPER ONE (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128829&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SUPER ONE HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SUPER ONE HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=207934&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - TABOO TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - TABOO TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309885&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - TEEN TV" tvg-logo="" group-title="FOR ADULTS",XXX - TEEN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774063&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - TEENS TV" tvg-logo="" group-title="FOR ADULTS",XXX - TEENS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774027&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - THREESOME" tvg-logo="" group-title="FOR ADULTS",XXX - THREESOME
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774064&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - THREESOME TV" tvg-logo="" group-title="FOR ADULTS",XXX - THREESOME TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774026&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - THREESOME TV" tvg-logo="" group-title="FOR ADULTS",XXX - THREESOME TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773995&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - THREESOME TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - THREESOME TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777848&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - TRANS TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - TRANS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777739&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - VENUS TV" tvg-logo="" group-title="FOR ADULTS",XXX - VENUS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774000&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - VISIT-X TV" tvg-logo="" group-title="FOR ADULTS",XXX - VISIT-X TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773959&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - WOMAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - WOMAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777823&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - X-DREAM 2 TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - X-DREAM 2 TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309887&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - X-DREAM TV (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - X-DREAM TV (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=309886&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - X1-BIZARRE TV" tvg-logo="" group-title="FOR ADULTS",XXX - X1-BIZARRE TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773994&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - XTASY" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - XTASY
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=550704&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - XXL (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - XXL (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=53055&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - XY MAX HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - XY MAX HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=128794&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - XY MIX HD (H)" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - XY MIX HD (H)
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=138461&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - XY MIX TV" tvg-logo="" group-title="FOR ADULTS",XXX - XY MIX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774017&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - YOUNG SEX ADULTS TV" tvg-logo="" group-title="FOR ADULTS",XXX - YOUNG SEX ADULTS TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=773990&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX - YOUNG SEX TV" tvg-logo="" group-title="FOR ADULTS",XXX - YOUNG SEX TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=774054&extension=ts&play_token=LQS8W4mdxi
-#EXTINF:-1 tvg-id="" tvg-name="XXX -WOMAN TV" tvg-logo="http://logo.protv.cc/picons/logos/xxx.png" group-title="FOR ADULTS",XXX -WOMAN TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=777862&extension=ts&play_token=LQS8W4mdxi
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="##### WORLD CRICKET #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/WORLD-CRICKET.png" group-title="WORLD CRICKET",##### WORLD CRICKET #####
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1104683&extension=ts&play_token=LQS8W4mdxi
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="SPORTS| ASTRO CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-title="WORLD CRICKET",SPORTS| ASTRO CRICKET HD
