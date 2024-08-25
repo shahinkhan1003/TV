@@ -82,6 +82,9 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=225832&extensi
 
 
 
+#EXTINF:-1 group-title="World Cricket" tvg-logo="_____", TNT Sports 2 4k
+http://watchtv.best:80/play/live.php?mac=00:1A:79:5f:f1:3b&stream=1546250&extension=ts&play_token=Y6yqANOByG
+
 #EXTINF:-1 group-title="World Cricket" tvg-logo="_____", Astro Cricket HD
 http://watchtv.best:80/play/live.php?mac=00:1A:79:CF:0F:1F&stream=1104670&extension=ts&play_token=YDHR9ba40r
 
