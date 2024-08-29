@@ -13,11 +13,20 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png",news_24_hd
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
 
+#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png",somoy_news
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=somoy_news
+
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png",independent_tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=independent_tv
 
+#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png",sa_tv
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
+
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png",dbc_news
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
+
+#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png",boishakhi_tv
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
 
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png",rtv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
@@ -70,9 +79,6 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bangla_vision
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",desh_tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=desh_tv
 
-#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png",boishakhi_tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
-
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png",channel_9
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9
 
@@ -87,12 +93,6 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png",nexus_tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nexus_tv
-
-#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png",sa_tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
-
-#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png",somoy_news
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=somoy_news
 
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png",gaan_bangla
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla
