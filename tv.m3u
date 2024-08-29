@@ -99,8 +99,11 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla
 
 
 
+#EXTINF:-1 group-title="Jadoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",zee_bangla
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
 
-
+#EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png",zee_cinema_hd
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_cinema_hd
 
 
 
@@ -122,17 +125,15 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=cbeebies_asia
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png",cnn
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=cnn
 
-
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png",nhk_world
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nhk_world
-
 
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png",macau_lotus
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=macau_lotus
 
-
 #EXTINF:-1 group-title="Jadoo" tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png",fox_action_movies_hd
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=fox_action_movies_hd
+
 
 
 
