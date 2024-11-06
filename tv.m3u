@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",Fancode
+https://himel-op.top/ok-stream/play.m3u8?live=7325411516038
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",ARG vs CHI
 http://b1g.uk:80/live/Nick123/Nick123/233905.ts
 
