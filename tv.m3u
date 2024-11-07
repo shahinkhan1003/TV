@@ -1,5 +1,86 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="stream247", tsports2
+http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Jalshamovies
+http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Sonyaath
+http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", StarJalsha
+http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", starjalsha
+http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", sonypix
+http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", starmovies
+http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", moviesnow
+http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", star-movies
+http://103.175.242.10:8080/star-movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Sonymax
+http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", tsports2
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", tsports
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Tsports1
+http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Gtv
+http://103.175.242.10:8080/27-Gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", gtv2
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", skysportsfootball
+http://103.175.242.10:8080/skysportsfootball/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", sonyten1
+http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", sonysports2
+http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", sonysports5
+http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", sports18
+http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Starsport1
+http://103.175.242.10:8080/02-Starsport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", starsports2
+http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", Starsportselect
+http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="stream247", starsportsselect2
+http://103.175.242.10:8080/starsportsselect2/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
