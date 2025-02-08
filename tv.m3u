@@ -2,39 +2,18 @@
 
 
 
-#EXTINF:-1 group-title="stream247", BPL
-https://a2uy.short.gy/hex-vai/BPL/index.m3u8
-
 #EXTINF:-1 group-title="stream247", Bird Trap 1
 rtsp://192.168.31.97:8080/h264_opus.sdp
-
-#EXTINF:-1 group-title="stream247", Bird Trap 2
-rtsp://192.168.31.97:8080/h264_aac.sdp
-
-#EXTINF:-1 group-title="stream247", Bird Trap 3
-rtsp://192.168.31.97:8080/h264_ulaw.sdp
-
-#EXTINF:-1 group-title="stream247", Bird Trap 4
-rtsp://192.168.31.97:8080/h264.sdp
-
-#EXTINF:-1 group-title="stream247", Bird Trap 5
-http://192.168.31.97:8080/onvif/device_service
-
 
 #EXTINF:-1 group-title="stream247", Bird Trap 1
 rtsp://192.168.31.90:8080/h264_opus.sdp
 
 #EXTINF:-1 group-title="stream247", Bird Trap 2
+rtsp://192.168.31.97:8080/h264_aac.sdp
+
+#EXTINF:-1 group-title="stream247", Bird Trap 2
 rtsp://192.168.31.90:8080/h264_aac.sdp
 
-#EXTINF:-1 group-title="stream247", Bird Trap 3
-rtsp://192.168.31.90:8080/h264_ulaw.sdp
-
-#EXTINF:-1 group-title="stream247", Bird Trap 4
-rtsp://192.168.31.90:8080/h264.sdp
-
-#EXTINF:-1 group-title="stream247", Bird Trap 5
-http://192.168.31.90:8080/onvif/device_service
 
 #EXTINF:-1 group-title="stream247", Fancode
 https://buddyxiptv.com/fancode/playlist/playlist.m3u
