@@ -2,6 +2,12 @@
 
 
 
+
+#EXTINF:-1 group-title="stream247", Tsports
+https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
+
+
+
 #EXTINF:-1 group-title="stream247", Bird Trap 1
 rtsp://192.168.31.97:8080/h264_opus.sdp
 
