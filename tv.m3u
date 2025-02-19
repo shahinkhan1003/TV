@@ -1,12 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="stream247", Sports Toffee
+#EXTINF:-1 group-title="stream247", T Sports
 https://cdn.hoichoi24.com/LIVE/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 group-title="stream247", Sports Toffee
+#EXTINF:-1 group-title="stream247", Toffee 1
 https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
+
+#EXTINF:-1 group-title="stream247", Toffee 2
+https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 group-title="stream247", Sports 1
 https://starshare.live:443/live/102/102/239.ts
