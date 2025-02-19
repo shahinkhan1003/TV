@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 group-title="stream247", Sports Toffee
+https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 
 #EXTINF:-1 group-title="stream247", Sports 1
 https://starshare.live:443/live/102/102/239.ts
