@@ -12,15 +12,18 @@ https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/matc
 https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 group-title="stream247", Sports 1
-https://starshare.live:443/live/102/102/239.ts
+http://watchindia.net:8880/live/97869/86543/1067.ts
 
 #EXTINF:-1 group-title="stream247", Sports 2
-https://starshare.live:443/live/102/102/1856.ts
+http://watchindia.net:8880/live/97869/86543/2145.ts
 
 #EXTINF:-1 group-title="stream247", Sports 3
-https://starshare.live:443/live/102/102/2496.ts
+http://watchindia.net:8880/live/97869/86543/2174.ts
 
 #EXTINF:-1 group-title="stream247", Sports 4
+http://watchindia.net:8880/live/97869/86543/2091.ts
+
+#EXTINF:-1 group-title="stream247", Sports 5
 https://starshare.live:443/live/102/102/124269.ts
 
 #EXTINF:-1 group-title="stream247", Bird Trap 1
