@@ -9,6 +9,10 @@ https://cdn.hoichoi24.com/LIVE/tracks-v1a1/mono.ts.m3u8
 http://b1g.uk:80/live/Foster/Foster/260993.ts
 
 
+#EXTINF:-1 group-title="stream247", CT1
+http://b1g.uk:80/live/Foster/Foster/260988.ts
+
+
 #EXTINF:-1 group-title="stream247", Toffee 1
 https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 
