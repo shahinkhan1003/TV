@@ -24,6 +24,47 @@ http://b1g.uk:80/live/George10/George10/260997.ts
 http://b1g.uk:80/live/Martin123/Martin123/260997.ts
 
 
+#EXTINF:-1 group-title="stream247", Willow 1
+http://b1g.uk:80/live/Foster/Foster/260993.ts
+
+#EXTINF:-1 group-title="stream247", Willow 2
+http://b1g.uk:80/live/Mark1234/Mark1234/260993.ts
+
+#EXTINF:-1 group-title="stream247", Willow 3
+http://b1g.uk:80/live/6812/6812/260993.ts
+
+#EXTINF:-1 group-title="stream247", Willow 4
+http://b1g.uk:80/live/Jamie123/Jamie123/260993.ts
+
+#EXTINF:-1 group-title="stream247", Willow 5
+http://b1g.uk:80/live/George10/George10/260993.ts
+
+#EXTINF:-1 group-title="stream247", Willow 6
+http://b1g.uk:80/live/Martin123/Martin123/260993.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="stream247", CT1
 http://b1g.uk:80/live/Foster/Foster/260988.ts
 
