@@ -5,6 +5,42 @@
 https://cdn.hoichoi24.com/LIVE/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 1 Foster
+http://b1g.uk:80/live/Foster/Foster/697711.ts
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 2 Foster
+http://b1g.uk:80/live/Foster/Foster/697710.ts
+
+
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 1 Mark1234
+http://b1g.uk:80/live/Mark1234/Mark1234/697711.ts
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 2 Mark1234
+http://b1g.uk:80/live/Mark1234/Mark1234/697710.ts
+
+
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 1 6812
+http://b1g.uk:80/live/6812/6812/697711.ts
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 2 6812
+http://b1g.uk:80/live/6812/6812/697710.ts
+
+
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 1 Jamie123
+http://b1g.uk:80/live/Jamie123/Jamie123/697711.ts
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 2 Jamie123
+http://b1g.uk:80/live/Jamie123/Jamie123/697710.ts
+
+
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 1 Martin123
+http://b1g.uk:80/live/Martin123/Martin123/697711.ts
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 2 Martin123
+http://b1g.uk:80/live/Martin123/Martin123/697710.ts
+
+
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 1 George10
+http://b1g.uk:80/live/George10/George10/697711.ts
+#EXTINF:-1 group-title="stream247", Fifa Qualifier 2 George10
+http://b1g.uk:80/live/George10/George10/697710.ts
+
+
 #EXTINF:-1 group-title="stream247", Astro 1
 http://b1g.uk:80/live/Foster/Foster/260997.ts
 
