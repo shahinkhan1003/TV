@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="stream247", T Sports
-https://cdn.hoichoi24.com/LIVE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="stream247", T Sports 1
 https://rashedan.short.gy/Bank.m3u8
@@ -10,6 +8,10 @@ https://rashedan.short.gy/Bank.m3u8
 
 #EXTINF:-1 group-title="stream247", T Sports 2
 https://vsd248.okcdn.ru/hls/8501978204885.m3u8/sig/PyRqJSJwSss/expires/1749130552736/srcIp/194.61.40.69/urls/185.226.53.83/clientType/1/srcAg/CHROME_ANDROID/mid/9787606179541/video.m3u8?p
+
+
+#EXTINF:-1 group-title="stream247", T Sports
+https://cdn.hoichoi24.com/LIVE/tracks-v1a1/mono.ts.m3u8
 
 
 
