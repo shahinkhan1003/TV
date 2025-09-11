@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="stream247", Asia Cup Sony Liv
+https://zubayerop.short.gy/BAN-V-HKG.m3u8
+
 #EXTINF:-1 group-title="stream247", T Sports 0
 https://www.bdixtv24.xyz/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/131276_english_hls_53629adfreeta-di_h264/index.m3u8
 
