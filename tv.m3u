@@ -21,6 +21,9 @@ http://203.18.159.115:8081/SONYSPORTS5HD/index.m3u8
 #EXTINF:-1 group-title="stream247", Willow Cricket 1 HD
 http://203.18.159.115:8081/Willow_Cricket_1_HD_TG_josharmy007/index.m3u8
 
+#EXTINF:-1 group-title="stream247", TNT Sports 4 UK 
+http://203.18.159.115:8081/TNT_Sports_4_UK_TG_josharmy007/index.m3u8
+
 #EXTINF:-1 group-title="stream247", Asia cup BD 7
 https://tinyurl.com/TG-josharmy007-AC-SonyLivENG
 
