@@ -1,29 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="stream247", Asia cup BD 1
-https://tinyurl.com/TG-josharmy007-AsiaCup
+#EXTINF:-1 group-title="stream247", T_SPORTS
+http://203.18.159.115:8081/T_SPORTS/index.m3u8
 
-#EXTINF:-1 group-title="stream247", Asia cup BD 2
-https://tinyurl.com/TG-josharmy007-AC-NK
+#EXTINF:-1 group-title="stream247", NAGORIK
+http://203.18.159.115:8081/NAGORIK/index.m3u8
 
-#EXTINF:-1 group-title="stream247", Asia cup BD 3
-https://tinyurl.com/TG-josharmy007-AsiaCup1
+#EXTINF:-1 group-title="stream247", SONY SPORTS 1 HD
+http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
 
-#EXTINF:-1 group-title="stream247", Asia cup BD 4
-https://tinyurl.com/TG-josharmy007-AsiaCup2
+#EXTINF:-1 group-title="stream247", SONY SPORTS 3
+http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
 
-#EXTINF:-1 group-title="stream247", Asia cup BD 2
-https://tinyurl.com/TG-josharmy007-AsiaCup3
+#EXTINF:-1 group-title="stream247", SONY SPORT S 5HD
+http://203.18.159.115:8081/SONYSPORTS5HD/index.m3u8
 
-#EXTINF:-1 group-title="stream247", Asia cup BD 6
-https://tinyurl.com/TG-josharmy007-AC-Willow
+#EXTINF:-1 group-title="stream247", Willow Cricket 1 HD
+http://203.18.159.115:8081/Willow_Cricket_1_HD_TG_josharmy007/index.m3u8
 
 #EXTINF:-1 group-title="stream247", Asia cup BD 7
 https://tinyurl.com/TG-josharmy007-AC-SonyLivENG
 
-https://tinyurl.com/TG-josharmy007-AC-SonyLiv101
+#EXTINF:-1 group-title="stream247", SonyLiv AC TG
+http://203.18.159.115:8081/SonyLiv_AC_TG_josharmy007/index.m3u8
 
-#EXTINF:-1 group-title="stream247", Asia cup 1
+#EXTINF:-1 group-title="stream247", Asia cup 1 BG1
 http://b1g.uk:80/live/90909090/80808080/313555.ts
 
 
