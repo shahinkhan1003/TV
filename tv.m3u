@@ -9,6 +9,9 @@ http://203.18.159.115:8081/NAGORIK/index.m3u8
 #EXTINF:-1 group-title="stream247", SONY SPORTS 1 HD
 http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
 
+#EXTINF:-1 group-title="stream247", SONY SPORTS 2 HD
+http://203.18.159.115:8081/SONYSPORTS2HD/index.m3u8
+
 #EXTINF:-1 group-title="stream247", SONY SPORTS 3
 http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
 
