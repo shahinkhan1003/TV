@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="stream247", Rashed Playlist New
+https://rashedan.short.gy/Sp.m3u
+
 #EXTINF:-1 group-title="stream247", T_SPORTS
 http://203.18.159.115:8081/T_SPORTS/index.m3u8
 
