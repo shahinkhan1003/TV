@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="stream247", TSports 
+http://172.16.15.5:8666/T-SPORTS/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="stream247", Fancode 1
 https://tinyurl.com/TG-josharmy007-FCSL
 
