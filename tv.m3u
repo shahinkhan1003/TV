@@ -1,45 +1,45 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="Rashed",Rashed
 https://rashedan.short.gy/YrA.m3u
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/TSports%2021668953490.png",T-SPORTS
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/TSports%2021668953490.png",T-SPORTS
 http://172.16.15.5:8666/T-SPORTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/TSports%2021668953490.png",Channel I
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/TSports%2021668953490.png",Channel I
 http://172.16.15.5:8666/159/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/Channel%2091664824936.png",Channel 9
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/Channel%2091664824936.png",Channel 9
 http://172.16.15.5:8666/160/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/Mohona%20Tv1664825859.png",Mohona TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/Mohona%20Tv1664825859.png",Mohona TV
 http://172.16.15.5:8666/157/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/banglatv.png",Bangla TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/banglatv.png",Bangla TV
 http://172.16.15.5:8666/163/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/ekusheytv.png",Ekushey TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/ekusheytv.png",Ekushey TV
 http://172.16.15.5:8666/154/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/globaltv.png",Global TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/globaltv.png",Global TV
 http://172.16.15.5:8666/158/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="__________",Somoy TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="__________",Somoy TV
 http://172.16.15.5:8666/144/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/globaltv.png",Global TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/globaltv.png",Global TV
 http://172.16.15.5:8666/142/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/rtv.png",RTV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/rtv.png",RTV
 http://172.16.15.5:8666/141/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="__________",Channel 24
+#EXTINF:-1 group-title="Samonline" tvg-logo="__________",Channel 24
 http://172.16.15.5:8666/151/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="http://172.16.15.5/assets/images/btvworld.png",BTV
+#EXTINF:-1 group-title="Samonline" tvg-logo="http://172.16.15.5/assets/images/btvworld.png",BTV
 http://172.16.15.5:8666/161/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Samonline", tvg-logo="__________",Bijoy TV
+#EXTINF:-1 group-title="Samonline" tvg-logo="__________",Bijoy TV
 http://172.16.15.5:8666/118/tracks-v1a1/mono.m3u8
 
 
