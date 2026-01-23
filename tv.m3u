@@ -1,5 +1,18 @@
 #EXTM3U
 
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/People%20We%20Meet%20on%20Vacation%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="People We Meet on Vacation (2026) 720p NF [Dual Audio]", People We Meet on Vacation (2026) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -MsMod
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/People%20We%20Meet%20on%20Vacation%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/People%20We%20Meet%20on%20Vacation%20%282026%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/Sleepwalker%20%282026%29%20720p%20WEBRip/a_AL_.jpg" group-title="Sleepwalker (2026) 720p WEBRip", Sleepwalker.2026.720p.WEB-DL.x264.ESub-MsMod
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/Sleepwalker%20%282026%29%20720p%20WEBRip/Sleepwalker.2026.720p.WEB-DL.x264.ESub-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/The%20Internship%20%282026%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Internship (2026) 720p AMZN [Dual Audio]", The Internship (2026) 720p AMZN-WEB x264 ESub [Dual Audio][Hindi 5.1+English 5.1] -MsMod
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/The%20Internship%20%282026%29%20720p%20AMZN%20%5BDual%20Audio%5D/The%20Internship%20%282026%29%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/The%20Rip%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Rip (2026) 720p NF [Dual Audio]", The Rip (2026) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -MsMod
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/The%20Rip%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Rip%20%282026%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+
+
+
 #EXTINF:-1 group-title="Rashed",Rashed
 https://rashedan.short.gy/YrA.m3u
 
