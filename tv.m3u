@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Fifa WC", Bein Himel
-https://himelhimuishere.pages.dev/fwc26.m3u8
+#EXTINF:-1 group-title="Fifa WC", Bioscope Live
+https://github.com/sm-monirulislam/SM-Live-TV/raw/refs/heads/main/sm.m3u
 
 #EXTINF:-1 group-title="Fifa WC", Bein Himel
 https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/World_Cup.m3u
