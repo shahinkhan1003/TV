@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Fifa WC", A BDIX 25 Gbps
+http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Fifa WC", A BDIX 15 Gbps
+http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=dsgdfgsdfgasf
+
+
+
 #EXTINF:-1 group-title="Fifa WC", Fifa 0
 https://tinyurl.com/TG-josharmy007-fgfgjk9c
 
